@@ -1,13 +1,3 @@
-### Wazzuuuuuppp guys 👋
-
-`name = "Anthony"`\
-`age = 15`\
-`language = "Python"`\
-`country = "Russia"`
-
-
-
-`print(f"My name is f{name}\n`\
-`My age is {age}\n`\
-`My favorite language is {language}\n`\
-`My motherland is {country}")`
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Anton</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">15 y.o. programmer from Russia</h3>
