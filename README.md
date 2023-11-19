@@ -3,5 +3,5 @@
 <h3 align="center">15 y.o. programmer from Russia</h3>
 
 
-<h1>My skills👻</h1>
+<h1 align="center">My skills👻</h1>
 
