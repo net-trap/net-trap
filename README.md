@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">15 y.o. programmer from Moscow</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knightparzival13&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=net-trap&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightparzival13&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=net-trap&layout=compact&theme=dracula)
 
 <h1 align="center">Some info:</h1>
 
