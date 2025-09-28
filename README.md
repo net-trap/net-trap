@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/net-trap" target="_blank">highvurx</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">16 y.o. entrepreneur from Moscow</h3>
+<h3 align="center">17 y.o. entrepreneur from Moscow</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=net-trap&show_icons=true&theme=dracula)
 
